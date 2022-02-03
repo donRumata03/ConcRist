@@ -1,5 +1,7 @@
 # ConcRist — Concrete Metaheuristics
 
+*The word concrete is borrowed from a famous book ConCrete mathematics and is decrypted as «Continuous&Discrete Mathematics»*
+
 Concrete Metaheuristics building blocks (MHBB) written in Rust
 
 Major design goals:
