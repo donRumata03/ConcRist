@@ -1,6 +1,6 @@
 # ConcRist — Concrete Metaheuristics
 
-*The word concrete is borrowed from a famous book ConCrete mathematics and is decrypted as «Continuous&Discrete Mathematics»*
+<p align="center"><i>The word concrete is borrowed from a famous book ConCrete mathematics and is decrypted as «Continuous&amp;Discrete Mathematics»</i></p>
 
 Concrete Metaheuristics building blocks (MHBB) written in Rust
 
