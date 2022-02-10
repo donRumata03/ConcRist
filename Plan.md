@@ -2,7 +2,7 @@
 
 ## Essentials of metaheuristics
 
-[Ссылка на краткий конспект](Essentials of metaheuristics.md)
+[Ссылка на краткий конспект этой кинги](Essentials of metaheuristics.md)
 
 ## Желаемые фичи
 
